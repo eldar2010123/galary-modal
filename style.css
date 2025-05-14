@@ -34,6 +34,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f2f5;
+    background-color: black;
     color: #333;
   }
   
@@ -51,7 +52,7 @@ body {
     gap: 20px;
     padding: 20px;
     max-width: 1000px;
-    justify-content: center;
+    justify-items: center;
     margin: 0 auto;
   }
   
