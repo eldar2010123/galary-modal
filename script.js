@@ -22,8 +22,9 @@ modalImg.style.cssText = `
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 960px;
-    height: 600px;
+    max-width: 1100px;
+    width: 85%;
+    height: auto;
     box-shadow: 0 8px 16px rgba(255, 255, 255, 0.2);
     border-radius: 12px;
     cursor: pointer;
